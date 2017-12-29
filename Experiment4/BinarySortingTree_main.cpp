@@ -24,7 +24,7 @@ void randPerm(int num, int min, int max, int* arr) {
     }
 }
 
-int main() {
+int main20171229() {
     int arr[50];
     int count;
 
