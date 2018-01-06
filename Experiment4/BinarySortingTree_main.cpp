@@ -2,7 +2,7 @@
 // Created by heze on 17-12-29.
 //
 
-#include "BinarySortingTree.h"
+#include "header/BinarySortingTree.h"
 
 using namespace std;
 //假设已经由一个数组长度为10000的数组，里面分别存储了数据0 - 9999，
@@ -24,7 +24,7 @@ void randPerm(int num, int min, int max, int* arr) {
     }
 }
 
-int main20171229() {
+int main() {
     int arr[50];
     int count;
 
